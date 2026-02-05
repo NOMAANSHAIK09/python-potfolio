@@ -48,4 +48,4 @@ with col5:
         st.header(row["title"])
         st.write(row["description"])
         st.image("image/"+ row["image"])
-        st.write(f"[source code]({row['url']})")['url']})")
+        st.write(f"[source code]({row['url']})")
