@@ -10,7 +10,7 @@ Helper Chatbot;A chatbot that knows about a specific topic and answers questions
 Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the Facebook API.;https://github.com/NOMAANSHAIK09/PYTHON-DEVELOPER/tree/2777329716889907816d22a4a80fc036d274a1de/chatbot;10.png
 Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/NOMAANSHAIK09/PYTHON-DEVELOPER/tree/2777329716889907816d22a4a80fc036d274a1de/wweb%20camp;11.png
 Visualizing Data;A program that visualizes the data collected in the previous monitoring program. ;https://pythonhow.com;15.png
-Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://github.com/NOMAANSHAIK09/PYTHON-DEVELOPER/tree/2777329716889907816d22a4a80fc036d274a1de/forecast%20app;16.png
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://weather-forecast09.streamlit.app/;16.png
 Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQLlite  database backend.;https://github.com/NOMAANSHAIK09/PYTHON-DEVELOPER/tree/2777329716889907816d22a4a80fc036d274a1de/studentmng;17.png
 School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://github.com/NOMAANSHAIK09/PYTHON-DEVELOPER/tree/2777329716889907816d22a4a80fc036d274a1de/mysqlstd;18.png
 JOb Application;A flask job application  user fill the form and it store it in data base and give feedback.;https://github.com/NOMAANSHAIK09/PYTHON-DEVELOPER/tree/2777329716889907816d22a4a80fc036d274a1de/forecast%20app;20.png
